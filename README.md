@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Ding+Gyun)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+저는+Ding+Gyun+입니다.)](https://git.io/typing-svg)
 
 🚀 About Me
 I'm currently on vacation. Passionate about coding and always eager to learn new technologies. Here’s a bit more about me:

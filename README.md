@@ -3,5 +3,5 @@
 
 
 📫 Connect with Me:
-Email: guess_nana@naver.com
+/Email: guess_nana@naver.com
 LinkedIn: Y

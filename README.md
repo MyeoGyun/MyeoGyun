@@ -11,7 +11,9 @@ I'm currently on vacation. Passionate about coding and always eager to learn new
 
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MyeoGyun&layout=compact)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Other Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=data&logoColor=white)
 
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&theme=radical)

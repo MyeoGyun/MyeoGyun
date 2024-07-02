@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is;Myeong+Gyun)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+My+Name+is+Myeong+Gyun+kim)](https://git.io/typing-svg)
 
 #1D9FD7
 Here are some ideas to get you started:

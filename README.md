@@ -21,18 +21,7 @@ I'm currently on vacation. Passionate about coding and always eager to learn new
 ### 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MyeoGyun)
 
-### 💼 Projects
-- [de-git](https://github.com/MyeoGyun/de-git): A project related to sectioning in Git.
-
 ### 📫 Connect with Me:
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/YourProfile)
+- **Email**: [guess_nana@naver.com](mailto:YourEmail@example.com)
 
-### 🛠️ Badges and Widgets:
-Here are some badges and widgets to beautify your GitHub profile:
-- ![Profile Views](https://komarev.com/ghpvc/?username=MyeoGyun)
-- ![GitHub Followers](https://img.shields.io/github/followers/MyeoGyun?style=social)
-- ![Python Version](https://img.shields.io/pypi/pyversions/Django?label=Python&logo=python)
 
-### 🎨 Profile Customization
-You can customize your profile with various widgets and badges from the [beautify-github-profile repository](https://github.com/rzashakeri/beautify-github-profile).

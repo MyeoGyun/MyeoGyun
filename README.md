@@ -30,4 +30,4 @@ If you're curious about me...
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=black)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=Blue)

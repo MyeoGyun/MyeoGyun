@@ -20,6 +20,8 @@ If you're curious about me...
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&theme=radical)
 
+<a href="https://github.com/MyeoGyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="DingGyun's github stats" /></a>
+
 ### 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MyeoGyun)
 

@@ -20,10 +20,10 @@ If you're curious about me...
 ### 📈 GitHub Stats:
 <p align="center">
   <a href="https://github.com/MyeoGyun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="DingGyun's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="DingGyun's github stats" width="400" height="180" />
   </a>
   <a href="https://github.com/MyeoGyun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeoGyun&layout=compact&theme=nord&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeoGyun&layout=compact&theme=nord&hide_border=true" alt="Most Used Languages" width="400" height="180" />
   </a>
 </p>
 

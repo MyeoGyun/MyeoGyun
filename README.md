@@ -18,7 +18,7 @@ If you're curious about me...
 
 
 ### 📈 GitHub Stats:
-<a href="https://github.com/MyeoGyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="DingGyun's github stats" /></a><a href="https://github.com/MyeoGyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeoGyun&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/MyeoGyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=MyeoGyun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="DingGyun's github stats" /></a> <a href="https://github.com/MyeoGyun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyeoGyun&layout=compact&theme=nord&hide_border=true" /></a>
 
 ### 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MyeoGyun)

@@ -7,7 +7,7 @@ If you're curious about me...
 - 🌱 I’m currently learning: Data Analysis, Data Engineering
 - 💬 Ask me about: Government-funded AI education project
 - 📫 How to reach me: [guess_nana@naver.com](mailto:guess_nana@naver.com)
-- ⚡ Fun fact: I have experience in the arts, physical education, liberal arts, and engineering. Samdo-ryu kk
+- ⚡ Fun fact: I have experience in the arts, physical education, liberal arts, and engineering
 
 ### 🛠️ Languages and Tools:
 

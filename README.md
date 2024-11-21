@@ -12,10 +12,9 @@ If you're curious about me...
 ### 🛠️ Languages and Tools:
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=Python&logoColor=white"/>
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Other Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=data&logoColor=white)
 

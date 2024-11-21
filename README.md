@@ -27,9 +27,6 @@ If you're curious about me...
   </a>
 </p>
 
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MyeoGyun)
-
 ### 📫 Connect with Me:
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
 

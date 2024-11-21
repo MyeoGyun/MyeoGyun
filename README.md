@@ -1,4 +1,4 @@
-![git](https://github.com/user-attachments/assets/f047a98c-a3d2-4146-8e10-56febe63fe6e)## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+저는+Ding+Gyun+입니다.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+저는+Ding+Gyun+입니다.)](https://git.io/typing-svg)
 
 ### 👐 Hello everyone
 I'm currently studying data analysis and data engineering.

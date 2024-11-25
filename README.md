@@ -29,6 +29,7 @@ If you're curious about me...
 
 ### 📫 Connect with Me:
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
+- **Instagram**: [aud.virus_0209](https://www.instagram.com/aud.virus_0209/)
 
 
 ![](https://komarev.com/ghpvc/?username=MyeoGyun&color=blue)

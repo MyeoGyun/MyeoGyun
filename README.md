@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Kim%20MyeonGyun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Data%20Driven%20Developer&descSize=20&descAlign=50&descAlignY=55" alt="header"/>
 </p>
 
-![INTRODUCTION](./assets/introduction.png)
+## INTRODUCTION
 국비지원사업 AI 교육과정 프로젝트 매니저로 근무하며 데이터에 흥미를 갖게 되었고,  
-현재는 데이터를 활용하기 좋게 가공하여 기능을 개발하는 백엔드 개발자를 꿈꾸고 있습니다. 
-
-
+현재는 데이터를 활용하기 좋게 가공하여 기능을 개발하는 백엔드 개발자가 되기 위해 공부하고있습니다.
 
 ### 🛠️ Languages and Tools:
 

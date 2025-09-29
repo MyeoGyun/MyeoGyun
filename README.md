@@ -40,3 +40,4 @@ If you're curious about me...
 
 
 ![](https://komarev.com/ghpvc/?username=MyeoGyun&color=blue)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:36BCF7&height=150&section=footer)

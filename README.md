@@ -49,10 +49,7 @@
   </a>
 </p>
 
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=MyeoGyun&theme=dark&locale=ko&mode=weekly" alt="GitHub Streak" />
-</a>
+</div>
 
 ### 📫 Connect with Me:
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)

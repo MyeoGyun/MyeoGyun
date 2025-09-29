@@ -28,7 +28,7 @@ If you're curious about me...
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dinggyun&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MyeoGyun&theme=dark&locale=ko&mode=weekly" alt="GitHub Streak" /></a>
 
 ### 📫 Connect with Me:
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)

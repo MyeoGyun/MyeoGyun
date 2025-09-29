@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+저는+Ding+Gyun+입니다.)](https://git.io/typing-svg)
 ## ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Dark+Theme;Colorful+Style&color=FF5733&background=000000&center=true&vCenter=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=120&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=100&section=footer" />
 ### 👐 Hello everyone
 I'm currently studying data analysis and data engineering.
 

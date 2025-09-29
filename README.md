@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=250&section=header&text=Hello%20I'm%20Ding%20Gyun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+저는+Ding+Gyun+입니다.)](https://git.io/typing-svg)
-
 ### 👐 Hello everyone
 I'm currently studying data analysis and data engineering.
 

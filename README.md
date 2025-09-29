@@ -50,10 +50,10 @@
 
 </div>
 
-### 📫 Connect with Me:
-- **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
-- **Instagram**: [aud.virus_0209](https://www.instagram.com/aud.virus_0209/)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:36BCF7&height=150&section=footer)
+
+### 📫 Connect:
+- **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
 
 ![](https://komarev.com/ghpvc/?username=MyeoGyun&color=blue)

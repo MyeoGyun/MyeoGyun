@@ -27,6 +27,9 @@ If you're curious about me...
   </a>
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dinggyun&theme=dark&locale=ko&mode=weekly)](https://git.io/streak-stats)
+
 ### 📫 Connect with Me:
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
 - **Instagram**: [aud.virus_0209](https://www.instagram.com/aud.virus_0209/)

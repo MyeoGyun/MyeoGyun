@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=250&section=header&text=Hello%20I'm%20Ding%20Gyun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hello%20I'm%20Ding%20Gyun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=70)
 
 ### 👐 Hello everyone
 I'm currently studying data analysis and data engineering.

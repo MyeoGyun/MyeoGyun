@@ -55,5 +55,3 @@
 
 ### 📫 Connect:
 - **Email**: [guess_nana@naver.com](mailto:guess_nana@naver.com)
-
-![](https://komarev.com/ghpvc/?username=MyeoGyun&color=blue)

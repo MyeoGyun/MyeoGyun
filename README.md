@@ -3,13 +3,10 @@
 </p>
 
 ## introduction
-I'm currently studying data analysis and data engineering.
+국비지원사업 AI 교육과정 프로젝트 매니저로 근무하며 데이터에 흥미를 갖게 되었고, 
+현재는 데이터를 활용하기 좋게 가공하여 기능을 개발하는 백엔드 개발자를 꿈꾸고 있습니다. 
 
-If you're curious about me...
-- 🌱 I’m currently learning: Data Analysis, Data Engineering
-- 💬 Ask me about: Government-funded AI education project
-- 📫 How to reach me: [guess_nana@naver.com](mailto:guess_nana@naver.com)
-- ⚡ Fun fact: I have experience in the arts, physical education, liberal arts, and engineering
+
 
 ### 🛠️ Languages and Tools:
 

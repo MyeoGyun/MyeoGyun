@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요+저는+Ding+Gyun+입니다.)](https://git.io/typing-svg)
-## ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Once+Only!&repeat=false)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Dark+Theme;Colorful+Style&color=FF5733&background=000000&center=true&vCenter=true)
 
 ### 👐 Hello everyone
 I'm currently studying data analysis and data engineering.

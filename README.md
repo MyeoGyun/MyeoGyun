@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=HELLO%20I'M%20Ding%20Gyun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=HELLO%20I'M%20Ding%20Gyun&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 </p>
 
 ### 👐 Hello everyone
